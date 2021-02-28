@@ -1,0 +1,17 @@
+{
+  "name": "ui-tests-cypress",
+  "version": "1.0.0",
+  "description": "Docler Holding Test Framework",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "^4.0.1",
+    "cypress": "^6.5.0",
+    "link": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Gomes-Okoye",
+  "license": "ISC"
+}
